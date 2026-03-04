@@ -156,5 +156,3 @@ product-demand-forecasting
 ├── report              # full academic report
 └── images              # visualisations used in this project
 ```
-│
-└── requirements.txt
