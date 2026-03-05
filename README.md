@@ -140,8 +140,7 @@ Understanding demand drivers helps prioritise high-performing products.
 
 ```
 product-demand-forecasting
-│
 ├── dataset             # sample dataset used for analysis
 ├── notebooks           # analysis and modelling notebooks
-├── report              # full academic report
+└── report              # full academic report
 ```
